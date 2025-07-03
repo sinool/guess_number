@@ -1,4 +1,4 @@
-from utils.get import get_num
+from src.utils.get import get_num
 import random, sys, threading, os
 from time import sleep
 guess=0

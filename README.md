@@ -24,11 +24,10 @@ Your score starts at 100 and decreases with every wrong attempt.
 
 2. Clone this repository or download the script:
    ```bash
-   git clone https://github.com/sinool/guess-number
+   git clone https://github.com/your-username/guess-the-number
 3. Run the script:
    ```bash
-   cd src
-   python main.py
+   python guess_the_number.py
 
 ## 🛠 Requirements
 

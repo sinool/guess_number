@@ -27,7 +27,8 @@ Your score starts at 100 and decreases with every wrong attempt.
    git clone https://github.com/sinool/guess-number
 3. Run the script:
    ```bash
-   python src/main.py
+   cd src
+   python main.py
 
 ## 🛠 Requirements
 
